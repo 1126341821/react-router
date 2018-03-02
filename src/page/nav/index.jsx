@@ -9,7 +9,7 @@ const arr = [
 },
 {
   path: '/other',
-  text: 'other',
+  text: 'otherest',
 }, {
   path: '/table',
   text: 'table',
