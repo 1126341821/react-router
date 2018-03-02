@@ -5,14 +5,14 @@ import './index.scss';
 const arr = [
   {
   path: '/process',  // 千万不要写 跟目录，不然就一直高亮 
-  text: 'processrr'
+  text: 'processrs'
 },
 {
   path: '/other',
-  text: 'other',
+  text: 'others',
 }, {
   path: '/table',
-  text: 'table',
+  text: 'tables',
 }
 ]
 
