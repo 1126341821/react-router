@@ -12,7 +12,7 @@ const arr = [
   text: 'others',
 }, {
   path: '/table',
-  text: 'tables',
+  text: 'table',
 }
 ]
 
